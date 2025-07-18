@@ -1,0 +1,6 @@
+[submodule "Appointment_Booking_System_Backend"]
+	path = Appointment_Booking_System_Backend
+	url = https://github.com/Dushyanth-GK/Appointment_Booking_System_Backend.git
+[submodule "Appointment_Booking_System"]
+	path = Appointment_Booking_System
+	url = https://github.com/Shabeeb101/Appointment_Booking_System.git
